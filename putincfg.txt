@@ -1,0 +1,5 @@
+
+
+# chat #
+ensure chat-clear
+add_ace group.admin chat.clear allow # allow chat commands
