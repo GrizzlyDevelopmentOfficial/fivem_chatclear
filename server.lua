@@ -11,5 +11,4 @@ RegisterCommand("clearchat", function(source, args)
 end, false)
 
 
-
 print("Made by IJinxCXX4K™. For support visit our discord @ https://discord.gg/Z9GpC9dMRE")
